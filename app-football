@@ -1,0 +1,6 @@
+├── index.html # Page principale
+├── supabaseClient.js # Connexion Supabase
+├── package.json # Dépendances et scripts
+├── .gitignore # Fichiers à ignorer
+├── .env.local # Variables d'environnement locales
+└── README.md # Ce fichier
